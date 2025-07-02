@@ -1,5 +1,5 @@
 # Hiddify-Warp
-Hiddify Warp Sub - Updating Every 12 Hours!
+Hiddify Warp Sub
 
 # <img src="assets/hiddify.png" alt="Hiddify" width="40"/> Hiddify
 ```
